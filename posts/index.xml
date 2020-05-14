@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 阿柴的博客</title>
-    <link>http://github.com/chai4231/posts/</link>
+    <link>http://chai4231.github.io/posts/</link>
     <description>Recent content in Posts on 阿柴的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Thu, 14 May 2020 19:05:56 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 19:35:32 +0800</lastBuildDate>
     
-	<atom:link href="http://github.com/chai4231/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chai4231.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>第二篇博客</title>
+      <link>http://chai4231.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 14 May 2020 19:35:32 +0800</pubDate>
+      
+      <guid>http://chai4231.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>如何用hugo搭建个人博客  下载hugo，把hugo.exe放到Software/hugo目录，然后把路径添加到path里面 点进hugo官网的quick start，复制代码一直到第4步 顶上的几行不动，在下面写内容，再复制代码到第6步 把地址改成github的page地址，把标题改为博客标题，然后运行   </description>
+    </item>
+    
+    <item>
       <title>开博大吉</title>
-      <link>http://github.com/chai4231/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>http://chai4231.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Thu, 14 May 2020 19:05:56 +0800</pubDate>
       
-      <guid>http://github.com/chai4231/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>http://chai4231.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>大家好 我的博客开通了，希望我能写出好文章给大家看。</description>
     </item>
     
